@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+.gongji{
+    font-family: "Dongle", sans-serif;
+    font-size: xx-large;
+    font-weight: 400;
+}
+table{
+    position: absolute;
+    left: 32%;
+    top: 10%;
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: x-large;
+    background-color: white;
+}
+td{
+    border: 1px solid black;
+    height: 10px;
+    
+}

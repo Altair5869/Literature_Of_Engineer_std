@@ -1,0 +1,21 @@
+.muneui{
+    background-color: white;
+    width: 600px;
+    height: 200px;
+    border-radius: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top: 17%;
+    left: 30%;    
+}
+.muneui:hover{
+    transform: scale(1.05); 
+    border-color: skyblue;
+    box-shadow: 0 0 50px skyblue; 
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    left: 23%;
+}
